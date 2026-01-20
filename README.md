@@ -1,15 +1,20 @@
-# Jan
+<div align="center">
 
-**System Integrator & Cluster Operations Engineer** Focusing on scalable cloud infrastructure, automation, and system resilience.
+# Hi, I'm Jan 👋
+**System Integrator & Cluster Operations Engineer**
+
+*Focusing on scalable cloud infrastructure, automation, and system resilience*
 
 ---
 
-### 🚀 Expertise
+</div>
 
-- **Cluster Orchestration** | Scaling and managing high-availability environments.
-- **Pipeline Automation** | Designing efficient CI/CD workflows and deployment strategies.
-- **Hybrid Cloud Infrastructure** | Architecting robust systems across multiple providers.
-- **Resilience by Design** | Ensuring system stability and maintainability.
+### 🎯 Expertise
+
+* **Cluster Orchestration** – Architecting high-availability environments with Kubernetes.
+* **Infrastructure as Code** – Building automated, reproducible hybrid cloud systems.
+* **CI/CD & DevOps** – Streamlining deployment pipelines for maximum efficiency.
+* **System Resilience** – Engineering for stability, monitoring, and proactive maintenance.
 
 ---
 
@@ -21,7 +26,7 @@
 
 ---
 
-### 🐍 Contribution Matrix
+### 🐍 Contribution Activity
 
 <div align="center">
   <img src="https://github.com/BlueCafeGuy/snk/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
