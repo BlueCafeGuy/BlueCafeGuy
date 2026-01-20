@@ -1,33 +1,28 @@
-# jan@github:~$ whoami
+# Jan
 
-- root operator
-- system integrator
-- cluster ops engineer
-- logic-bound entity
+**System Integrator & Cluster Operations Engineer** Focusing on scalable cloud infrastructure, automation, and system resilience.
 
-## ⚙️core protocols
+---
 
-- cluster orchestration  
-- pipeline automation  
-- hybrid cloud infrastructure  
-- resilience by design
+### 🚀 Expertise
 
-## 🧬 dna fragments
+- **Cluster Orchestration** | Scaling and managing high-availability environments.
+- **Pipeline Automation** | Designing efficient CI/CD workflows and deployment strategies.
+- **Hybrid Cloud Infrastructure** | Architecting robust systems across multiple providers.
+- **Resilience by Design** | Ensuring system stability and maintainability.
 
--  👾 alien logic // human interface  
--  🖤 protocol over pulse
--  💾 IRC since dial-up // xclnt / xclntx
--  🕹️ powered by videogames – pixel blood runs deep
+---
 
-## 🛠️ arsenal
+### 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,nginx,git,github,gitlab,postgres,mongodb,elasticsearch,prometheus,grafana,vscode,postman,powershell,wordpress,linux,windows&theme=dark&perline=10" />
 </p>
 
+---
+
+### 🐍 Contribution Matrix
+
 <div align="center">
-
-## 🐍 contribution matrix: devoured
-![Snake animation](https://github.com/xclntx/snk/blob/output/github-contribution-grid-snake.svg)
-
+  <img src="https://github.com/BlueCafeGuy/snk/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
